@@ -77,12 +77,13 @@ README.md
 
 ---
 
-## CI/CD
+## CI/CD/CS
 
-Two GitHub Actions pipelines:
+Three GitHub Actions pipelines:
 
 - **CI** — runs on every push: compiles, unit tests, integration tests
 - **CD** — runs on merge to `main`: builds and pushes Docker image to GHCR
+- **CS** — runs on every push to check vulnerability
 
 ---
 
