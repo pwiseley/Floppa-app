@@ -86,6 +86,20 @@ Two GitHub Actions pipelines:
 
 ---
 
+## My Contributions
+
+- Three-layer architecture design (API / Domain / Infrastructure)
+- Offer-submit by buyer feature
+- CI pipeline (GitHub Actions — build & test on every push)
+- CD pipeline (GitHub Actions — Docker image published to GHCR on merge)
+- CS pipeline (continuous security — automated dependency vulnerability scanning)
+- Code quality tooling (Spotless configuration)
+- Open-source documentation (CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENSE)
+- Unit tests (Mockito) and integration tests (Testcontainers)
+- Main reviewer on team pull requests
+
+---
+
 ## Contributors
 
 University team project — GLO-2003, Université Laval.
