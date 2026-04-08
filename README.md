@@ -1,3 +1,5 @@
+> 🇫🇷 [Lire en français](README.fr.md)
+
 # floppa-project
 
 A team-built marketplace backend developed as part of the GLO-2003 Software Engineering Processes course at Université Laval (Winter 2026).
