@@ -62,6 +62,7 @@ Trois couches strictes — aucune fuite de dépendance entre elles :
 ## Structure du projet
 
 ```
+.github/workflows/         # CI/CD, DevSecOps avec Snyk
 src/
 ├── main/java/
 │   ├── api/               # Ressources, assembleurs, modèles de requête/réponse
