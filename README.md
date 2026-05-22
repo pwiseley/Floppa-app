@@ -62,6 +62,7 @@ Three strict layers — no dependency leaks between them:
 ## Project Structure
 
 ```
+.github/workflows/         # CI/CD, DevSecOps with Snyk
 src/
 ├── main/java/
 │   ├── api/               # Resources, assemblers, request/response models
